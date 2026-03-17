@@ -1,4 +1,4 @@
-PNETLab QCOW and iou Images Repository
+PNETLab QCOW and iou Images Repository and Lab guide
 
 This link contains all QCOW2 and iou images required to run the labs in this repository.
 
