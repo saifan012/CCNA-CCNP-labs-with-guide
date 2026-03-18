@@ -5,7 +5,7 @@ The below link contains all QCOW2 and iou images required to run the labs in thi
 Includes:
 - Cisco L2 and L3 bin
 - Cisco ASA Firewall 
-- bigip WAF
+- Bigip WAF
 - Fortigate Firewall
 - Tiny Core Linux for Server needs
 - Juniper Firewall
